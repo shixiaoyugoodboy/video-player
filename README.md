@@ -256,6 +256,3 @@ videojs.addLanguage('es', {
 - [videojs-contrib-ads](https://github.com/videojs/videojs-contrib-ads)
 - [more plugins...](https://github.com/search?o=desc&q=videojs+plugin&s=stars&type=Repositories&utf8=%E2%9C%93)
 
-
-# Author
-[Surmon](https://surmon.me) -->
